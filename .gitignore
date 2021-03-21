@@ -3,3 +3,4 @@ core/
 patchers/
 LogOutput.log
 config/BepInEx.cfg
+config/Xenofell.RememberIPDamnit.cfg

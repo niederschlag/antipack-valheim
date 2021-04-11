@@ -51,7 +51,7 @@
       "GoldRubyRing"
     ],
     "GamblesCount": 4,
-    "GambleRarityChance": [ 10, 69, 15, 5, 1 ],
+    "GambleRarityChance": [ 10, 60, 20, 8, 2 ],
     "GambleRarityChanceByRarity" : [
       [ 0, 90, 9, 1, 0 ],
       [ 0, 0, 90, 9, 1 ],
